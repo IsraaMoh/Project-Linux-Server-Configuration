@@ -4,12 +4,19 @@ This project is 5th project of Udacity's Full Stack Web Developer Nanodgree
 this README walks through how to prepare a Linux server to host a web application.
 
  ip : 52.29.32.59
+ 
  port :2200
+ 
  url : http://52.29.32.59.xip.io/
+ 
 private ip : 172.26.10.66
+
 Ubuntu 16.04 LTS, Linux
+
 Amazon Lightsail. server
+
 PostgreSQL database server.
+
 item catalog project.
 
 # Get server
